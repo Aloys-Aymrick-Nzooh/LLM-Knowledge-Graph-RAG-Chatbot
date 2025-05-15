@@ -50,7 +50,7 @@ Traditional RAG systems use vector similarity to retrieve relevant context. This
 
 5. Run the application:
    ```bash
-   streamlit run llm_rag.py
+   streamlit run rag_llm.py
    ```
 
 ## 📖 How to Use
